@@ -17,9 +17,10 @@
 -   choices (picks a random option out options provided, selects multiple if desired)
 -   tiles and surveyors (calculates the optimal number of surveyors to buy based on current price of tile from the game "territory idle")
 -   A few small games (less than ten minute playthrough) in Unity
+-   Several small VB desktop apps
 - My programming languages:
 -   Primary: Python
--   Secondary: C#
+-   Secondary: C#, VB
 -   Others I've tried but never used for a project: Java, HTML, C, Assembly
 <!---
 funkcole8/funkcole8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
